@@ -1,4 +1,4 @@
-# name-gender-nn-rs
+# name-gender-nn-rs <sup>v0.0.2</sup>
 
 **name-gender-nn-rs** — Rust port of
 [name-gender-nn-py](https://github.com/smartlegionlab/name-gender-nn-py).
