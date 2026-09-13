@@ -1,4 +1,11 @@
-# name-gender-nn-rs <sup>v0.0.2</sup>
+# name-gender-nn-rs <sup>v0.1.0</sup>
+
+[![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/smartlegionlab/name-gender-nn-rs)](https://github.com/smartlegionlab/name-gender-nn-rs)
+[![GitHub forks](https://img.shields.io/github/forks/smartlegionlab/name-gender-nn-rs?style=social)](https://github.com/smartlegionlab/name-gender-nn-rs/network/members)
+
+> Educational project. Not production-ready. Shows how a small
+> neural network works from scratch, without external ML libraries.
 
 **name-gender-nn-rs** — Rust port of
 [name-gender-nn-py](https://github.com/smartlegionlab/name-gender-nn-py).
@@ -178,6 +185,7 @@ training data are female (`elizabeth`, `catherine`, `mary`).
 ```
 name-gender-nn-rs/
 ├── Cargo.toml
+├── Cargo.lock
 ├── data/
 │   ├── names_ru.json   # Russian dataset (Cyrillic)
 │   └── names_en.json   # English dataset (Latin)
