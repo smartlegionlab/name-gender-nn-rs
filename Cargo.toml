@@ -3,8 +3,11 @@ name = "name-gender-nn-rs"
 version = "0.1.0"
 edition = "2024"
 rust-version = "1.85"
+authors = ["Alexander Suvorov (smartlegionlab) <smartlegionlab@gmail.com>"]
 description = "Gender classifier for first names — Rust port"
 license = "BSD-3-Clause"
+repository = "https://github.com/smartlegionlab/name-gender-nn-rs"
+readme = "README.md"
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }
