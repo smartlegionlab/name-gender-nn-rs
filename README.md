@@ -1,6 +1,6 @@
 # name-gender-nn-rs <sup>v0.1.0</sup>
 
-[![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/name-gender-nn-rs)]
+[![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/name-gender-nn-rs)](https://github.com/smartlegionlab/name-gender-nn-rs)
 [![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/smartlegionlab/name-gender-nn-rs)](https://github.com/smartlegionlab/name-gender-nn-rs)
 [![GitHub forks](https://img.shields.io/github/forks/smartlegionlab/name-gender-nn-rs?style=social)](https://github.com/smartlegionlab/name-gender-nn-rs/network/members)
